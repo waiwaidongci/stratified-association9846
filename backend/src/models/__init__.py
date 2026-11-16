@@ -5,3 +5,9 @@ from .stratum import ExposureStratum
 from .count import TableCount
 from .run import AssociationRun
 from .note import VerificationNote
+from .paired_study import PairedStudy
+from .paired_layer import PairedLayer
+from .paired_piece import PairedPiece
+from .paired_cell import PairedCell
+from .paired_run import PairedRun
+from .paired_note import PairedVerificationNote
